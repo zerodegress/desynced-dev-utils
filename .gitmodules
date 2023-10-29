@@ -1,0 +1,3 @@
+[submodule "LLSAddon"]
+	path = LLSAddon
+	url = https://github.com/StageGames/DesyncedLLSAddon.git
